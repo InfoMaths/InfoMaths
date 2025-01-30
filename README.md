@@ -1,4 +1,10 @@
 
-InfoMaths/InfoMaths is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+InfoMaths/InfoMaths is a ✨ special ✨ repository
+cours
+TP
+TD
+Propba
+Stat
+Analyse de données
+R logiciel de statistique.
 --->
