@@ -1,5 +1,5 @@
 
-InfoMaths/InfoMaths is a ✨ special ✨ repository
+InfoMaths/InfoMaths:
 <h1>cours<br>
 TP<br>
 TD<br>
